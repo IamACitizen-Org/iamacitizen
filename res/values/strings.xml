@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iamacitizen</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sing_up">SingUpActivity</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+    <string name="always_free">Aplicação Gratuita!</string>
+    <string name="country">País</string>
+    <string name="state">Estado</string>
+    <string name="city">Cidade</string>
+    <string name="your_email">Seu Email</string>
+    <string name="confirm_email">Confirmar Email</string>
+    <string name="new_password">Nova Senha</string>
+    <string name="sign_up">Registrar</string>
+    <string name="female">Femenino</string>
+    <string name="male">Masculino</string>
+    <string name="awake_country">Acorda Brasil</string>
+    <string name="log_in">Entrar</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="new_announcement">Nova Declaração</string>
+    <string name="title_activity_new_announcement">NewAnnouncement</string>
+    <string name="title">Título</string>
+    <string name="description">Descrição</string>
+    <string name="institution_area">Área da Instituição</string>
+    <string name="public_sector">Setor Público</string>
+    <string name="private_sector">Setor Privado</string>
+    <string name="institution">Instituição</string>
+    <string name="publish">Publicar</string>
+    <string name="title_activity_mobilisations">MobilisationsActivity</string>
+    <string name="title_activity_new_mobilization">NewMobilization</string>
+    <string name="title_activity_my_announcements">MyAnnouncementsActivity</string>
+    <string name="title_activity_my_mobilisations">MyMobilisationsActivity</string>
+    <string name="title_activity_announcements_by_institution">AnnouncementsByInstitutionActivity</string>
+    <string name="title_activity_mobilisations_by_institution">MobilisationsByInstitutionActivity</string>
+    <string name="title_activity_institution_ranking_by_mobilisation">InstitutionRankingByMobilisationActivity</string>
+    <string name="title_activity_institution_ranking_by_mobilisation_follower">InstitutionRankingByMobilisationFollowerActivity</string>
+    <string name="title_activity_institution_ranking_by_announcement">InstitutionRankingByAnnouncementActivity</string>
+    <string name="title_activity_institution_ranking_by_announcement_repudiation">InstitutionRankingByAnnouncementRepudiationActivity</string>
+	<string name="create_account">Criar Conta</string>
+	<string name="new_mobilisation">Nova Mobilização</string>
+	<string name="announcement_photo_description">Foto da Declaração</string>
+	<string name="announcements">Declarações</string>
+	<string name="mobilisations">Mobilizações</string>
+	<string name="more_options">Mais Opções</string>
+	<string name="repudiate_photo_description">Repudiar</string>
+	
+</resources>

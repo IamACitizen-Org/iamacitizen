@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/more_options"
+        android:showAsAction="always"
+        android:title="@string/more_options">
+        <menu>
+            <item
+                android:id="@+id/announcements"
+                android:showAsAction="always"
+                android:title="@string/announcements"/>
+            <item
+                android:id="@+id/mobilisations"
+                android:showAsAction="always"
+                android:title="@string/mobilisations"/>
+        </menu>
+    </item>
+
+</menu>

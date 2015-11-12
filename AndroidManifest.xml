@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.iamacitizen.activity"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.iamacitizen.activity.LogInActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.AnnouncementsActivity"
+            android:label="@string/title_activity_sing_up" >
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.SignUpActivity"
+            android:label="@string/title_activity_log_in" >
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.NewAnnouncementActivity"
+            android:label="@string/title_activity_new_announcement" >
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.MobilisationsActivity"
+            android:label="@string/title_activity_mobilisations" >
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.NewMobilizationActivity"
+            android:label="@string/title_activity_new_mobilization" >
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.AnnouncementsByUserActivity"
+            android:label="@string/title_activity_my_announcements" >
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.MobilisationsByUserActivity"
+            android:label="@string/title_activity_my_mobilisations" >
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.AnnouncementsByInstitutionActivity"
+            android:label="@string/title_activity_announcements_by_institution" >
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.MobilisationsByInstitutionActivity"
+            android:label="@string/title_activity_mobilisations_by_institution" >
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.InstitutionRankingByMobilisationActivity"
+            android:label="@string/title_activity_institution_ranking_by_mobilisation" >
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.InstitutionRankingByMobilisationFollowerActivity"
+            android:label="@string/title_activity_institution_ranking_by_mobilisation_follower" >
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.InstitutionRankingByAnnouncementActivity"
+            android:label="@string/title_activity_institution_ranking_by_announcement" >
+        </activity>
+        <activity
+            android:name="com.iamacitizen.activity.InstitutionRankingByAnnouncementRepudiationActivity"
+            android:label="@string/title_activity_institution_ranking_by_announcement_repudiation" >
+        </activity>
+    </application>
+
+</manifest>
