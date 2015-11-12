@@ -1,0 +1,2 @@
+# iamacitizen
+Free app for use in mass by the middle class of a developing country with reality similar to Brazil. The country's reality: lackluster reality of public services provided by municipal, state and federal agencies in several areas, namely education, health, transportation, security, sanitation, among others. Quality supervision of lack of services provided by private companies, namely telecommunications, transport, health plans, among others.
